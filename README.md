@@ -19,8 +19,8 @@ This will download the source of a sample Dart application and unpack it as a ne
 
 ## 🛵 Deployment
 
-This template includes an example [GitHub actions](https://travis-ci.org/) [configuration file](.github/workflows/main.yml) which can unlock a virtuous cycle of continuous integration and deployment
-( i.e all tests are run on prs and every push to master results in a deployment ).
+This template includes an example [GitHub actions](https://github.com/features/actions) [configuration file](.github/workflows/main.yml) which can unlock a virtuous cycle of continuous integration and deployment
+( i.e all tests are run on prs and every push to master results in a deployment).
 
 GitHub actions is managed simply by the presence of a file checked into your repository. To set up GitHub Actions to deploy to AWS you'll need to do a few things
 
