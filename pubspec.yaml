@@ -1,0 +1,10 @@
+name: hello
+
+environment:
+  sdk: ">=2.6.0 <3.0.0"
+
+dependencies:
+  aws_lambda_dart_runtime:
+
+dev_dependencies:
+  build_runner:
