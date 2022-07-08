@@ -1,6 +1,6 @@
 {
   "devDependencies": {
     "serverless": "^2.25.1",
-    "serverless-dart": "^0.0.2-beta.8"
+    "serverless-dart": "^0.0.2-beta.9"
   }
 }
